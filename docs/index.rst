@@ -4,8 +4,6 @@
    contain the root `toctree` directive.
 
 market_share_mccvb documentation!
-==============================================
-
 Contents:
 
 .. toctree::

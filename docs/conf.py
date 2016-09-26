@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# market_share_mccvb documentation build configuration file, created by
+# market_share_analysis documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -42,6 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'market_share_mccvb'
+
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
